@@ -1,20 +1,13 @@
-const notes = [440, 460, 480, 500];
-
-const CHORDS = [{
-    name : 'A Minor',
-    notes,
-}];
-
-const audioCtx = new AudioContext();
-
-
-function playNote(frequency, duration){
-    return playFreq(frequency, duration);
-    
+function playNotes(notes){
+    return Promise.all(notes.map(n => playFreq(n.freq, n.duration)))
 }
 
-function playNotes(notes, duration){
-    return Promise.all(notes.map(n => playNote(n, duration)))
+
+//plays a list of notes subsequently
+async function playSong(notes){
+    for(let n of notes){
+        await playFreq(n.freq, n.duration)
+    }
 }
 
 
@@ -27,6 +20,7 @@ function playNotes(notes, duration){
 function playFreq(frequency, duration = 500){
     return new Promise((resolve, reject) => {
         try{
+            const audioCtx = new AudioContext();
             // create Oscillator node
             const oscillator = audioCtx.createOscillator();
             oscillator.type = "square";

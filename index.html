@@ -9,7 +9,9 @@
     <script src="./dom.js"></script>
 </head>
 <body>
-    <div id="container"></div>
-    <div id="chord-container"></div>
+    <form name="music" id="form" onsubmit="play()">
+        <textarea rows="20" name="csv" placeholder="Enter CSV Data of a song"></textarea>
+        <button type="button" onclick="play()">Play</button>
+    </form>
 </body>
 </html>
