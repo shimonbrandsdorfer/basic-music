@@ -18,7 +18,9 @@ function textToNotes(text){
         notes = arr.map(line => {
             line = line.split(',');
             let note = line[0].trim();
-            let freq = isNaN(note)  ? getFreqPerNote(note) : note;
+            let freq;
+            if(!note) freq = 'SILENCE';
+            else freq = isNaN(note) ? getFreqPerNote(note) : note;
     
             return {
                 freq,

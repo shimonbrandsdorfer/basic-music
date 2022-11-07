@@ -18,6 +18,7 @@ async function playSong(notes){
  * @returns 
  */
 function playFreq(frequency, duration = 500){
+    if(frequency === 'SILENCE') playSilence(duration);
     return new Promise((resolve, reject) => {
         try{
             const audioCtx = new AudioContext();
@@ -29,6 +30,16 @@ function playFreq(frequency, duration = 500){
             oscillator.start();
             setTimeout(() => {
                 oscillator.stop();
+                resolve()
+            }, duration)
+        }catch(e){reject(e)}
+    })
+}
+
+function playSilence(duration){
+    return new Promise((resolve, reject) => {
+        try{
+            setTimeout(() => {
                 resolve()
             }, duration)
         }catch(e){reject(e)}

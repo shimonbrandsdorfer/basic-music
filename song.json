@@ -1,0 +1,930 @@
+[
+          {
+            "note": [
+              {
+                "rest": "",
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth"
+              },
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "A",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "A",
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "up"
+              }
+            ]
+          },
+          {
+            "harmony": [
+              {
+                "root": {
+                  "root-step": "E",
+                  "root-alter": -1
+                },
+                "kind": "major"
+              },
+              {
+                "root": {
+                  "root-step": "F"
+                },
+                "kind": "major"
+              }
+            ],
+            "note": [
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up",
+                "beam": "begin"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up",
+                "beam": "continue"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up",
+                "beam": "continue"
+              },
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up",
+                "beam": "end"
+              }
+            ]
+          },
+          {
+            "harmony": [
+              {
+                "root": {
+                  "root-step": "B",
+                  "root-alter": -1
+                },
+                "kind": "major"
+              },
+              {
+                "root": {
+                  "root-step": "D"
+                },
+                "kind": "dominant"
+              }
+            ],
+            "note": [
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 4,
+                "voice": 1,
+                "type": "half",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 4,
+                "voice": 1,
+                "type": "half",
+                "stem": "down"
+              }
+            ]
+          },
+          {
+            "harmony": {
+              "root": {
+                "root-step": "G"
+              },
+              "kind": "minor"
+            },
+            "note": [
+              {
+                "rest": "",
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth"
+              },
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "A",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "A",
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "up"
+              }
+            ]
+          },
+          {
+            "note": [
+              {
+                "rest": "",
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth"
+              },
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "A",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "A",
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "up"
+              }
+            ]
+          },
+          {
+            "harmony": [
+              {
+                "root": {
+                  "root-step": "E",
+                  "root-alter": -1
+                },
+                "kind": "major"
+              },
+              {
+                "root": {
+                  "root-step": "D"
+                },
+                "kind": "dominant"
+              }
+            ],
+            "note": [
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down",
+                "beam": "begin"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down",
+                "beam": "continue"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down",
+                "beam": "continue"
+              },
+              {
+                "pitch": {
+                  "step": "A",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down",
+                "beam": "end"
+              }
+            ]
+          },
+          {
+            "harmony": [
+              {
+                "root": {
+                  "root-step": "G"
+                },
+                "kind": "minor"
+              },
+              {
+                "root": {
+                  "root-step": "F"
+                },
+                "kind": "major"
+              }
+            ],
+            "note": [
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 4,
+                "voice": 1,
+                "type": "half",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 4,
+                "voice": 1,
+                "type": "half",
+                "stem": "up"
+              }
+            ]
+          },
+          {
+            "harmony": {
+              "root": {
+                "root-step": "B",
+                "root-alter": -1
+              },
+              "kind": "major"
+            },
+            "direction": {
+              "direction-type": {
+                "rehearsal": "B"
+              }
+            },
+            "note": [
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "D",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "D",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              }
+            ]
+          },
+          {
+            "note": [
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "D",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "D",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              }
+            ]
+          },
+          {
+            "harmony": [
+              {
+                "root": {
+                  "root-step": "E",
+                  "root-alter": -1
+                },
+                "kind": "major"
+              },
+              {
+                "root": {
+                  "root-step": "F"
+                },
+                "kind": "major"
+              }
+            ],
+            "note": [
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up",
+                "beam": "begin"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up",
+                "beam": "continue"
+              },
+              {
+                "pitch": {
+                  "step": "A",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up",
+                "beam": "continue"
+              },
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "up",
+                "beam": "end"
+              }
+            ]
+          },
+          {
+            "harmony": {
+              "root": {
+                "root-step": "B",
+                "root-alter": -1
+              },
+              "kind": "major"
+            },
+            "note": [
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 4,
+                "voice": 1,
+                "type": "half",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 4,
+                "voice": 1,
+                "type": "half",
+                "stem": "down"
+              }
+            ]
+          },
+          {
+            "harmony": {
+              "root": {
+                "root-step": "B",
+                "root-alter": -1
+              },
+              "kind": "major"
+            },
+            "note": [
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "D",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "D",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              }
+            ]
+          },
+          {
+            "note": [
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "D",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "D",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              }
+            ]
+          },
+          {
+            "harmony": [
+              {
+                "root": {
+                  "root-step": "C"
+                },
+                "kind": "minor"
+              },
+              {
+                "root": {
+                  "root-step": "D"
+                },
+                "kind": "dominant"
+              }
+            ],
+            "note": [
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 2,
+                "voice": 1,
+                "type": "quarter",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down"
+              },
+              {
+                "pitch": {
+                  "step": "C",
+                  "octave": 5
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down",
+                "beam": "begin"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down",
+                "beam": "continue"
+              },
+              {
+                "pitch": {
+                  "step": "A",
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down",
+                "beam": "continue"
+              },
+              {
+                "pitch": {
+                  "step": "B",
+                  "alter": -1,
+                  "octave": 4
+                },
+                "duration": 1,
+                "voice": 1,
+                "type": "eighth",
+                "stem": "down",
+                "beam": "end"
+              }
+            ]
+          },
+          {
+            "harmony": {
+              "root": {
+                "root-step": "G"
+              },
+              "kind": "minor"
+            },
+            "note": [
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 4,
+                "voice": 1,
+                "type": "half",
+                "stem": "up"
+              },
+              {
+                "pitch": {
+                  "step": "G",
+                  "octave": 4
+                },
+                "duration": 4,
+                "voice": 1,
+                "type": "half",
+                "stem": "up"
+              }
+            ],
+            "barline": {
+              "bar-style": "light-heavy"
+            }
+          }
+        ]
+      }
+    }
+  }
