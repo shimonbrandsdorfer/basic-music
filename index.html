@@ -7,11 +7,13 @@
     <title>Document</title>
     <script src="./music.js"></script>
     <script src="./dom.js"></script>
+    <script src="./record.js"></script>
 </head>
 <body>
     <form name="music" id="form" onsubmit="play()">
         <textarea rows="20" name="csv" placeholder="Enter CSV Data of a song"></textarea>
         <button type="button" onclick="play()">Play</button>
+        <button type="button" onclick="genarateAudio()">Generate Audio File</button>
     </form>
 </body>
 </html>
